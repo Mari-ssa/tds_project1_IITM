@@ -1,0 +1,7 @@
+Flask
+pytesseract
+Pillow
+tqdm
+numpy
+scikit-learn
+sentence-transformers
