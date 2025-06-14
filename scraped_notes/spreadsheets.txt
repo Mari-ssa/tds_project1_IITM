@@ -1,0 +1,47 @@
+Tools in Data Science
+Tools in Data Science
+1. Development Tools
+Editor: VS Code
+AI Code Editors: GitHub Copilot
+Python tools: uv
+JavaScript tools: npx
+Unicode
+Browser: DevTools
+CSS Selectors
+JSON
+Terminal: Bash
+AI Terminal Tools: llm
+Spreadsheet: Excel, Google Sheets
+Spreadsheet: Excel, Google Sheets
+Database: SQLite
+Version Control: Git, GitHub
+2. Deployment Tools
+3. Large Language Models
+Project 1
+4. Data Sourcing
+5. Data Preparation
+6. Data Analysis
+Project 2
+7. Data Visualization
+Spreadsheet: Excel, Google Sheets
+
+You’ll use spreadsheets for data cleaning and exploration. The most popular spreadsheet program is Microsoft Excel followed by Google Sheets.
+
+You may be already familiar with these. If not, make sure to learn the basics of both.
+
+Go through the Microsoft Excel video training and make sure you cover:
+
+Intro to Excel
+Rows & columns
+Cells
+Formatting
+Formulas & Functions
+Tables
+PivotTables
+
+Watch this video for an introduction to Google Sheets (49 min):
+
+ Previous
+AI Terminal Tools: llm
+Next 
+Database: SQLite

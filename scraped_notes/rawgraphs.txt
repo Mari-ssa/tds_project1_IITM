@@ -1,0 +1,43 @@
+Tools in Data Science
+Tools in Data Science
+1. Development Tools
+2. Deployment Tools
+3. Large Language Models
+Project 1
+4. Data Sourcing
+5. Data Preparation
+6. Data Analysis
+Project 2
+7. Data Visualization
+Visualizing Forecasts with Excel
+Visualizing Animated Data with PowerPoint
+Visualizing Animated Data with Flourish
+Visualizing Network Data with Kumu
+Visualizing Charts with Excel
+Data Visualization with Seaborn
+Data Visualization with ChatGPT
+Actor Network Visualization
+RAWgraphs
+RAWgraphs
+Data Storytelling
+Narratives with LLMs
+Interactive Notebooks: Marimo
+HTML Slides: RevealJS
+Markdown Presentations: Marp
+RAWgraphs
+
+RAWgraphs
+How to make Alluvial Diagram
+How to make Sankey Diagram
+How to make Beeswarm Plot
+How to make Bump Chart
+How to make Circle Packing
+How to make Treemap
+How to make Streamgraph
+How to make Sunburst Diagram
+How to make Voronoi Diagram
+How to make Hexagonal Binning
+ Previous
+Actor Network Visualization
+Next 
+Data Storytelling

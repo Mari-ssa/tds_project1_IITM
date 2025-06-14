@@ -1,0 +1,43 @@
+Tools in Data Science
+Tools in Data Science
+1. Development Tools
+Editor: VS Code
+AI Code Editors: GitHub Copilot
+AI Editor: GitHub Copilot
+Python tools: uv
+JavaScript tools: npx
+Unicode
+Browser: DevTools
+CSS Selectors
+JSON
+Terminal: Bash
+AI Terminal Tools: llm
+Spreadsheet: Excel, Google Sheets
+Database: SQLite
+Version Control: Git, GitHub
+2. Deployment Tools
+3. Large Language Models
+Project 1
+4. Data Sourcing
+5. Data Preparation
+6. Data Analysis
+Project 2
+7. Data Visualization
+AI Editor: GitHub Copilot
+
+AI Code Editors like GitHub Copilot, Cursor, Windsurf, Roo Code, Cline, Continue.dev, etc. use LLMs to help you write code faster.
+
+Most are built on top of VS Code. These are now a standard tool in every developer’s toolkit.
+
+GitHub Copilot is free (as of May 2025) for 2,000 completions and 50 chats.
+
+You should learn about:
+
+Code Suggestions, which is a basic feature.
+Using Chat, which lets you code in natural language.
+Changing the chat model. The free version includes Claude 3.5 Sonnet, a good coding model.
+Prompts to understand how people use AI code editors.
+ Previous
+Editor: VS Code
+Next 
+Python tools: uv

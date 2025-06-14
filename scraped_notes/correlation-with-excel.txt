@@ -1,0 +1,45 @@
+Tools in Data Science
+Tools in Data Science
+1. Development Tools
+2. Deployment Tools
+3. Large Language Models
+Project 1
+4. Data Sourcing
+5. Data Preparation
+6. Data Analysis
+Correlation with Excel
+Correlation with Excel
+Regression with Excel
+Forecasting with Excel
+Outlier Detection with Excel
+Data Analysis with Python
+Data Analysis with SQL
+Data Analysis with Datasette
+Data Analysis with DuckDB
+Data Analysis with ChatGPT
+Geospatial Analysis with Excel
+Geospatial Analysis with Python
+Geospatial Analysis with QGIS
+Network Analysis in Python
+Project 2
+7. Data Visualization
+Correlation with Excel
+
+You’ll learn to calculate and interpret correlations using Excel, covering:
+
+Enabling the Data Analysis Tool Pack: Steps to enable the Excel data analysis tool pack.
+Correlation Analysis: Understanding statistical association between variables.
+Creating a Correlation Matrix: Steps to generate and interpret a correlation matrix.
+Scatterplots and Trendlines: Plotting data and adding trend lines to visualize correlations.
+Analyzing Results: Comparing correlation coefficients and understanding their implications.
+Insights and Further Analysis: Interpreting scatterplots and planning further analysis for deeper insights.
+
+Here are the links used in the video:
+
+Understand correlation
+COVID-19 vaccinations data explorer - Website
+COVID-19 vaccinations - Correlations Excel file
+ Previous
+6. Data Analysis
+Next 
+Regression with Excel

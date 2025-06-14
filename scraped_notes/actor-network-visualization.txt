@@ -1,0 +1,39 @@
+Tools in Data Science
+Tools in Data Science
+1. Development Tools
+2. Deployment Tools
+3. Large Language Models
+Project 1
+4. Data Sourcing
+5. Data Preparation
+6. Data Analysis
+Project 2
+7. Data Visualization
+Visualizing Forecasts with Excel
+Visualizing Animated Data with PowerPoint
+Visualizing Animated Data with Flourish
+Visualizing Network Data with Kumu
+Visualizing Charts with Excel
+Data Visualization with Seaborn
+Data Visualization with ChatGPT
+Actor Network Visualization
+Actor Network Visualization
+RAWgraphs
+Data Storytelling
+Narratives with LLMs
+Interactive Notebooks: Marimo
+HTML Slides: RevealJS
+Markdown Presentations: Marp
+Actor Network Visualization
+
+Find the shortest path between Govinda & Angelina Jolie using IMDb data using Python: networkx or scikit-network.
+
+Notebook: How this video was created
+The data used to visualize the network
+The shortest path between actors
+IMDB data
+Codebase
+ Previous
+Data Visualization with ChatGPT
+Next 
+RAWgraphs

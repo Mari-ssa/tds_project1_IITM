@@ -1,0 +1,37 @@
+Tools in Data Science
+Tools in Data Science
+1. Development Tools
+2. Deployment Tools
+3. Large Language Models
+Project 1
+4. Data Sourcing
+5. Data Preparation
+6. Data Analysis
+Correlation with Excel
+Regression with Excel
+Forecasting with Excel
+Forecasting with Excel
+Outlier Detection with Excel
+Data Analysis with Python
+Data Analysis with SQL
+Data Analysis with Datasette
+Data Analysis with DuckDB
+Data Analysis with ChatGPT
+Geospatial Analysis with Excel
+Geospatial Analysis with Python
+Geospatial Analysis with QGIS
+Network Analysis in Python
+Project 2
+7. Data Visualization
+Forecasting with Excel
+
+Here are links used in the video:
+
+FORECAST reference
+FORECAST.ETS reference
+Height-weight dataset from Kaggle
+Traffic dataset from Kaggle
+ Previous
+Regression with Excel
+Next 
+Outlier Detection with Excel

@@ -1,0 +1,44 @@
+Tools in Data Science
+Tools in Data Science
+1. Development Tools
+2. Deployment Tools
+3. Large Language Models
+Project 1
+4. Data Sourcing
+5. Data Preparation
+6. Data Analysis
+Correlation with Excel
+Regression with Excel
+Forecasting with Excel
+Outlier Detection with Excel
+Data Analysis with Python
+Data Analysis with SQL
+Data Analysis with Datasette
+Data Analysis with DuckDB
+Data Analysis with ChatGPT
+Geospatial Analysis with Excel
+Geospatial Analysis with Python
+Geospatial Analysis with QGIS
+Geospatial Analysis with QGIS
+Network Analysis in Python
+Project 2
+7. Data Visualization
+Geospatial Analysis with QGIS
+
+You’ll learn how to use QGIS for geographic data processing, covering:
+
+Shapefiles and KML Files: Create and manage shapefiles and KML files for storing and analyzing geographic information.
+Downloading QGIS: Install QGIS on different operating systems and familiarize yourself with its interface.
+Geospatial Data: Access and utilize shapefiles from sources like Diva-GIS and integrate them into QGIS projects.
+Creating Custom Shapefiles: Learn how to create custom shapefiles when existing ones are unavailable, including creating a shapefile for South Sudan.
+Editing and Visualization: Use QGIS tools to edit shapefiles, add attributes, and visualize geographic data with various styling and labeling options.
+Exporting Data: Export shapefiles or KML files for use in other applications, such as Google Earth.
+
+Here are links used in the video:
+
+QGIS Project
+Shapefile Data
+ Previous
+Geospatial Analysis with Python
+Next 
+Network Analysis in Python

@@ -1,0 +1,41 @@
+Tools in Data Science
+Tools in Data Science
+1. Development Tools
+2. Deployment Tools
+3. Large Language Models
+Project 1
+4. Data Sourcing
+5. Data Preparation
+Data Cleansing in Excel
+Data Transformation in Excel
+Splitting Text in Excel
+Data Aggregation in Excel
+Data Preparation in the Shell
+Data Preparation in the Editor
+Data Preparation in the Editor
+Data Preparation in DuckDB
+Cleaning Data with OpenRefine
+Parsing JSON
+Data Transformation with dbt
+Transforming Images
+Extracting Audio and Transcripts
+6. Data Analysis
+Project 2
+7. Data Visualization
+Data Preparation in the Editor
+
+You’ll learn how to use a text editor Visual Studio Code to process and clean data, covering:
+
+Format JSON files
+Find all and multiple cursors to extract specific fields
+Sort lines
+Delete duplicate lines
+Replace text with multiple cursors
+
+Here are the links used in the video:
+
+City-wise product sales JSON
+ Previous
+Data Preparation in the Shell
+Next 
+Data Preparation in DuckDB

@@ -1,0 +1,35 @@
+Tools in Data Science
+Tools in Data Science
+1. Development Tools
+2. Deployment Tools
+3. Large Language Models
+Project 1
+4. Data Sourcing
+5. Data Preparation
+Data Cleansing in Excel
+Data Transformation in Excel
+Splitting Text in Excel
+Splitting Text in Excel
+Data Aggregation in Excel
+Data Preparation in the Shell
+Data Preparation in the Editor
+Data Preparation in DuckDB
+Cleaning Data with OpenRefine
+Parsing JSON
+Data Transformation with dbt
+Transforming Images
+Extracting Audio and Transcripts
+6. Data Analysis
+Project 2
+7. Data Visualization
+Splitting Text in Excel
+
+You’ll learn how to transform a single-column data set into multiple, organized columns based on specific delimiters using the “Text to Columns” feature.
+
+Here are links used in the video:
+
+US Senate Legislation - Votes
+ Previous
+Data Transformation in Excel
+Next 
+Data Aggregation in Excel
